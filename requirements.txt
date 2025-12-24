@@ -1,0 +1,61 @@
+# Core Deep Learning Framework
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==2.1.1
+
+# Model architectures and utilities
+timm==0.9.10
+pytorch-lightning==2.1.0
+
+# Data Processing
+numpy==1.24.3
+pandas==2.1.1
+scikit-learn==1.3.1
+Pillow==10.0.0
+opencv-python==4.8.0.76
+
+# API and Web Framework
+Flask==3.0.0
+FastAPI==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+python-multipart==0.0.6
+
+# Visualization and Analysis
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.17.0
+tensorboard==2.14.0
+
+# Model Explainability
+grad-cam==1.4.8
+
+# Configuration Management
+PyYAML==6.0
+python-dotenv==1.0.0
+
+# Utilities
+tqdm==4.66.1
+requests==2.31.0
+
+# Development Dependencies (optional)
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.9.1
+flake8==6.0.0
+mypy==1.5.0
+
+# Logging
+python-json-logger==2.0.7
+
+# Data Download
+kaggle==1.5.14
+
+# Optional: For cloud deployment
+boto3==1.28.37  # AWS SDK
+google-cloud-storage==2.10.0  # GCP Storage
+
+# Optional: For edge deployment
+onnx==1.14.1
+onnxruntime==1.16.1
+tensorflowjs==4.10.0
