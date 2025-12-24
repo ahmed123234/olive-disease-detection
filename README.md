@@ -2,9 +2,9 @@
 
 A deep learning-based system for automated detection and classification of olive leaf diseases using PyTorch and transfer learning. This project aims to assist Palestinian and Middle Eastern farmers in early disease identification to improve crop yield and reduce pesticide use.
 
-**Author:** [Your Name]  
-**Institution:** [Your Institution]  
-**Date:** December 2024
+**Author:** Ahmad Ghannam  
+**Institution:** N/A  
+**Date:** December 2025
 
 ---
 
@@ -829,10 +829,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact & Support
 
-**Project Lead:** [Your Name]  
-**Email:** your.email@example.com  
-**GitHub:** https://github.com/yourusername/olive-disease-detection  
-**Issues:** https://github.com/yourusername/olive-disease-detection/issues
+**Project Lead:** Ahmad Ghannam  
+**Email:** ahmadghnnam60@gmail.com  
+**GitHub:** https://github.com/ahmed123234/olive-disease-detection  
+**Issues:** https://github.com/ahmed123234/olive-disease-detection/issues
 
 ---
 
@@ -845,5 +845,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Last Updated:** December 2024  
+**Last Updated:** December 2025 
 **Project Status:** In Development
